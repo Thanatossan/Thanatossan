@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thanatossan" alt="thanatossan" /></a> </p>
 
-- 🔭 I’m currently working on **MyAis**
+- 🔭 I’m currently working on **MyAIS**
 
 - 🌱 I’m currently learning **Rust, Go**
 
